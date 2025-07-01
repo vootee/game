@@ -1,0 +1,14 @@
+{
+  "denyBots": ["ahrefs", "semrush", "mj12bot", "dotbot", "crawler", "spider", "netcraft"],
+  "headlessRegex": "headless|puppeteer|phantomjs|slimerjs|chrome/\\d+\\.\\d+\\.\\d+\\.\\d+.*headless",
+  "allowedBots": [
+    "googlebot",
+    "googlebot-image",
+    "googlebot-mobile",
+    "adsbot-google",
+    "google-inspectiontool",
+    "google-site-verification"
+  ],
+  "whiteListIp": [],
+  "whiteListIpRange24": []
+}
