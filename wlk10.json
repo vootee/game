@@ -9,6 +9,6 @@
     "google-inspectiontool",
     "google-site-verification"
   ],
-  "whiteListIp": ["38.180.74.131"],
+  "whiteListIp": ["38.180.74.131", "188.214.152.150"],
   "whiteListIpRange24": []
 }
